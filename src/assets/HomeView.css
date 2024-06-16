@@ -6,13 +6,15 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh; /* Utilise toute la hauteur de la vue */
-    width: 100vw; /* Utilise toute la largeur de la vue */
+    height: 100vh;
+    /* Utilise toute la hauteur de la vue */
+    width: 100vw;
+    /* Utilise toute la largeur de la vue */
     margin-left: 0;
     padding: 0;
-  }
-  
-  .home-header {
+}
+
+.home-header {
     top: 0;
     left: 0;
     right: 0;
@@ -22,79 +24,86 @@
     padding: 16px 32px;
     background: rgba(0, 0, 0, 0.8);
     position: fixed;
-  }
-  
-  .social-icons {
+}
+
+.social-icons {
     position: fixed;
     left: 16px;
     top: 50%;
     transform: translateY(-50%);
     display: flex;
     flex-direction: column;
-  }
-  
-  .chat-button {
+}
+
+.chat-button {
     position: fixed;
     bottom: 16px;
     right: 16px;
-  }
-  
-  .profile {
+}
+
+.profile {
     display: flex;
     align-items: center;
-  }
-  
-  .profile-pic {
+}
+
+.profile-pic {
     width: 48px;
     height: 48px;
     border-radius: 50%;
     margin-right: 8px;
-  }
-  
-  .profile-name {
+}
+
+.profile-name {
     font-size: 1.2em;
     font-weight: bold;
-  }
-  
-  .navigation a {
+}
+
+.navigation a {
     margin-left: 24px;
     color: #e0e0e0;
     text-decoration: none;
     font-weight: bold;
     transition: opacity 0.3s;
-  }
-  
-  .navigation a:hover {
+}
+
+.navigation a:hover {
     opacity: 0.7;
-  }
-  
-  .main-content {
+}
+
+.main-content {
     text-align: center;
     margin: auto;
     padding: 0 20px;
-  }
-  
-  .main-title {
+}
+
+.main-title {
     font-size: 3em;
     font-weight: bold;
     margin-bottom: 16px;
-  }
-  
-  .main-description p {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s, color 0.3s;
+}
+
+.main-title:hover {
+    color: #ffffff;
+    transform: scale(1.05);
+}
+
+.main-description p {
     font-size: 1.2em;
-    margin-bottom: 40px; /* Augmentez cette valeur pour plus d'espace */
+    margin-bottom: 40px;
     line-height: 1.6;
-    color: #f0f0f0; /* Une couleur légèrement plus claire */
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Ajout d'un léger ombrage */
-    transition: transform 0.3s, color 0.3s; /* Ajout de transitions */
-  }
-  
-  .main-description p:hover {
-    color: #ffffff; /* Change la couleur lors du survol */
-    transform: scale(1.05); /* Légère augmentation de la taille */
-  }
-  
-  .projects-button {
+    color: #f0f0f0;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s, color 0.3s;
+}
+
+.main-description p:hover {
+    color: #ffffff;
+    transform: scale(1.05);
+}
+
+.projects-button {
     padding: 12px 24px;
     background: #6c63ff;
     color: #fff;
@@ -104,38 +113,39 @@
     border-radius: 4px;
     cursor: pointer;
     transition: background 0.3s;
-    margin-top: 20px; /* Ajout d'espace entre la description et le bouton */
-  }
-  
-  .projects-button:hover {
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.projects-button:hover {
     background: #5a54e8;
-  }
-  
-  .social-icons {
+}
+
+.social-icons {
     position: absolute;
     left: 16px;
     top: 50%;
     transform: translateY(-50%);
     display: flex;
     flex-direction: column;
-  }
-  
-  .social-icons a {
+}
+
+.social-icons a {
     margin-bottom: 16px;
-  }
-  
-  .social-icons img {
+}
+
+.social-icons img {
     width: 32px;
     height: 32px;
-  }
-  
-  .chat-button {
+}
+
+.chat-button {
     position: absolute;
     bottom: 16px;
     right: 16px;
-  }
-  
-  .chat-with-me {
+}
+
+.chat-with-me {
     padding: 12px 24px;
     background: #6c63ff;
     color: #fff;
@@ -148,9 +158,8 @@
     align-items: center;
     gap: 8px;
     transition: background 0.3s;
-  }
-  
-  .chat-with-me:hover {
+}
+
+.chat-with-me:hover {
     background: #5a54e8;
-  }
-  
+}

@@ -1,0 +1,122 @@
+.projects-section {
+    background: #2d2d2d;
+    color: #e0e0e0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100vw;
+    padding: 150px 0; /* Ajout d'un espace en haut et en bas */
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  
+  .projects-header {
+    text-align: center;
+    margin-bottom: 60px;
+  }
+  
+  .projects-title {
+    font-size: 3em;
+    margin-bottom: 20px;
+    font-weight: 700;
+  }
+  
+  .projects-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 40px;
+  }
+  
+  .project-card {
+    background: #3d3d3d;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: row;
+    padding: 24px;
+    text-align: left;
+    width: 80%;
+    transition: transform 0.3s;
+  }
+  
+  .project-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .project-image {
+    width: 500px; 
+    height: 375px;
+    border-radius: 8px;
+    margin-right: 20px;
+    object-fit:contain;
+  }
+  
+  .project-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .project-title {
+    font-size: 1.5em;
+    margin-bottom: 16px;
+    font-weight: 700;
+  }
+  
+  .project-description {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .technologies {
+    margin-bottom: 16px;
+  }
+  
+  .tech-square {
+    display: inline-block;
+    background: #6c63ff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin: 4px;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  .view-image-button {
+    padding: 12px 24px;
+    background: #6c63ff;
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .view-image-button:hover {
+    background: #5a54e8;
+  }
+  
+  .expanded-project-image {
+    margin-top: 16px;
+    max-width: 100%;
+    border-radius: 8px;
+  }
+
+  .project-title-link:link,
+.project-title-link:visited {
+  color: #ffffff; 
+  text-decoration: none; 
+}
+
+.project-title-link:hover {
+  text-decoration: underline; 
+}
+

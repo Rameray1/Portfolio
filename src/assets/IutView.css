@@ -1,0 +1,66 @@
+.section-title {
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-bottom: 40px; /* Espacement sous le titre */
+    color: #333; /* Couleur du texte */
+  }
+  
+  .competences-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .competence-card {
+    border-radius: 8px;
+    padding: 20px;
+    width: calc(50% - 20px);
+    max-width: 600px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    text-align: left;
+  }
+  
+  .competence-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .competence-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .competence-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .competence-item {
+    margin-bottom: 8px;
+  }
+  
+  /* Couleurs de fond pour chaque compétence */
+  .competence-card.red {
+    background-color: #ffccbc; /* Rouge */
+    color: #e65100;
+  }
+  
+  .competence-card.orange {
+    background-color: #ffe0b2; /* Orange */
+    color: #f57c00;
+  }
+  
+  .competence-card.blue {
+    background-color: #bbdefb; /* Bleu */
+    color: #1565c0;
+  }
+  
+  .competence-card.green {
+    background-color: #c8e6c9; /* Vert */
+    color: #2e7d32;
+  }
+  

@@ -1,0 +1,94 @@
+/* CSS dans FormationView.css */
+
+/* Styles pour la section "Mes Formations" */
+.formations-title {
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-bottom: 40px; /* Espacement sous le titre */
+    color: #fff; /* Couleur du texte */
+  }
+  
+  .formation-section {
+    background: #2d2d2d;
+    color: #e0e0e0;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centre le contenu horizontalement */
+    justify-content: center; /* Centre le contenu verticalement */
+    padding: 20px 20px; /* Ajout d'un espace à gauche et à droite */
+    font-family: 'Roboto', sans-serif;
+    gap: 50px; /* Espacement vertical entre les cartes */
+    min-height: 100vh;
+    width: 100vw;
+  }
+  
+  /* Conteneur pour les cartes afin de les aligner en row */
+  .formation-cards-container {
+    display: flex;
+    flex-direction: row; /* Affiche les cartes côte à côte */
+    justify-content: center; /* Centre les cartes horizontalement */
+    align-items: flex-start; /* Alignement en haut des cartes */
+    width: 100%; /* Utilise toute la largeur disponible */
+    gap: 50px; /* Espacement horizontal entre les cartes */
+  }
+  
+  /* Styles pour chaque carte de formation */
+  .formation-card {
+    background: #3d3d3d;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
+    width: calc(50% - 20px); /* Largeur des cartes côte à côte */
+    max-width: 600px; /* Largeur maximale des cartes */
+    text-align: left;
+    transition: transform 0.3s;
+  }
+  
+  .formation-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .formation-image {
+    width: 100%;
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .formation-title {
+    font-size: 1.5em;
+    font-weight: 700;
+    margin-bottom: 16px;
+  }
+  
+  .formation-description {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .formation-info {
+    font-size: 1em;
+    color: #ccc; /* Couleur du texte pour les informations supplémentaires */
+  }
+  
+  /* Media Query pour les petites tailles d'écran */
+  @media (max-width: 768px) {
+
+  
+    .formation-cards-container {
+      flex-direction: column; /* Affiche les cartes en colonne sur les petits écrans */
+      align-items: center; /* Centre les cartes sur les petits écrans */
+    }
+  
+    .formation-card {
+      width: calc(100% - 40px); /* Pleine largeur des cartes sur les petits écrans */
+      max-width: 100%;
+      margin-bottom: 40px; /* Espacement entre les cartes sur les petits écrans */
+    }
+  }
+  

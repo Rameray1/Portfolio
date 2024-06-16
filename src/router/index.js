@@ -13,11 +13,6 @@ const routes = [
     component: () => import('@/views/AboutView.vue')
   },
   {
-    path: '/skills',
-    name: 'skills',
-    component: () => import('@/views/SkillsView.vue')
-  },
-  {
     path: '/projects',
     name: 'projects',
     props: true,
@@ -32,7 +27,17 @@ const routes = [
     path: '/:pathMatch(.*)*',
     name: 'not-found',
     component: () => import('@/views/NotFoundView.vue')
-  }
+  },
+  {
+    path: '/formation',
+    name: 'formation',
+    component: () => import('@/views/FormationView.vue')
+  },
+  {
+    path: '/iut',
+    name: 'iut',
+    component: () => import('@/views/IutView.vue')
+  },
 ]
 
 const router = createRouter({
