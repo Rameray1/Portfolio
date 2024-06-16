@@ -7,7 +7,6 @@
       <div class="profile">
         <img src="../assets/images/profile-pic.jpg" alt="Profile Picture" class="profile-pic">
         <span class="profile-name">RAMAZAN KUS</span>
-        <span class="profile-description">Un jeune développeur</span>
       </div>
       <nav class="navigation">
         <a href="#home">Accueil</a> 
@@ -19,9 +18,9 @@
 
     <div class="main-content">
       <h1 class="main-title">Salut, je suis Ramazan KUS</h1>
-      <p class="main-description">
-        
-      </p>
+      <div class="main-description">
+        <p>Je suis un <strong>jeune développeur</strong> encore en étude, orienté dans le <em>développement web et logiciel</em>. <br>Passionné par la technologie et constamment en quête de nouveaux défis, je m'efforce d'améliorer mes compétences chaque jour.</p>
+      </div>
       <button class="projects-button">PROJETS</button>
     </div>
 

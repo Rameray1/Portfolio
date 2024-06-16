@@ -80,9 +80,18 @@
     margin-bottom: 16px;
   }
   
-  .main-description {
+  .main-description p {
     font-size: 1.2em;
-    margin-bottom: 32px;
+    margin-bottom: 40px; /* Augmentez cette valeur pour plus d'espace */
+    line-height: 1.6;
+    color: #f0f0f0; /* Une couleur légèrement plus claire */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Ajout d'un léger ombrage */
+    transition: transform 0.3s, color 0.3s; /* Ajout de transitions */
+  }
+  
+  .main-description p:hover {
+    color: #ffffff; /* Change la couleur lors du survol */
+    transform: scale(1.05); /* Légère augmentation de la taille */
   }
   
   .projects-button {
@@ -95,6 +104,7 @@
     border-radius: 4px;
     cursor: pointer;
     transition: background 0.3s;
+    margin-top: 20px; /* Ajout d'espace entre la description et le bouton */
   }
   
   .projects-button:hover {
