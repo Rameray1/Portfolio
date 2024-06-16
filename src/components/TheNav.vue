@@ -10,6 +10,7 @@
         <a href="#about">A propos de moi</a>
         <a href="#formation">Formation</a>
         <a href="#projects">Projets</a>
+        <a href="#iut">Compétences</a>
         <a href="#contact">Contact</a>
       </nav>
     </header>
