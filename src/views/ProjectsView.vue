@@ -81,16 +81,14 @@
       </div>
 
       <div class="project-card">
-        <!-- <img src="../assets/images/bm.jpg" alt="FitnessPro" class="project-image" /> -->
+        <img src="../assets/images/saejava.png" alt="FitnessPro" class="project-image" />
         <div class="project-details">
-          <h2 class="project-title">Gestion </h2>
+          <h2 class="project-title">TrajetSim</h2>
           <p class="project-description">
-            FitnessPro est une application qui propose des programmes d'entraînement personnalisés, des suivis de performance et des conseils nutritionnels pour les amateurs de fitness.
+            L'application TrajetSim offre une simulation avancée pour optimiser les trajets entre plusieurs dispensaires en fonction de critères spécifiques liés au transport des patients. Elle utilise des algorithmes de parcours de graphe, notamment l'algorithme de Dijkstra, pour calculer les chemins les plus efficaces et les plus rapides.
           </p>
           <div class="technologies">
-            <span class="tech-square">Flutter</span>
-            <span class="tech-square">Firebase</span>
-            <span class="tech-square">GraphQL</span>
+            <span class="tech-square">Java</span>
           </div>
         </div>
       </div>
