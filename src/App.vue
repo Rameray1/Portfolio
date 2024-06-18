@@ -22,11 +22,15 @@
       <ContactView />
     </section>
   </main>
+  <footer>
+    <TheFooter />
+  </footer>
 </template>
 
 <script setup>
 import { ref, onMounted } from 'vue'
 import TheNav from '@/components/TheNav.vue'
+import TheFooter from '@/components/TheFooter.vue'
 import HomeView from '@/views/HomeView.vue'
 import AboutView from '@/views/AboutView.vue'
 import ProjectsView from '@/views/ProjectsView.vue'
