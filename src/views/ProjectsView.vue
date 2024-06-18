@@ -68,16 +68,14 @@
       </div>
 
       <div class="project-card">
-        <img src="../assets/images/bm.jpg" alt="TravelMate" class="project-image" />
+        <img src="../assets/images/annuaire.jpg" alt="TravelMate" class="project-image" />
         <div class="project-details">
-          <h2 class="project-title">TravelMate</h2>
+          <h2 class="project-title">Annuaire 1.0</h2>
           <p class="project-description">
-            TravelMate est une application web qui aide les voyageurs à planifier leurs voyages, à découvrir des destinations et à partager leurs expériences.
+            Annuaire 1.0 est un logiciel de gestion de contacts convivial, permettant d'ajouter, rechercher, modifier et supprimer des contacts facilement. Idéal pour organiser et gérer efficacement vos informations de contact.
           </p>
           <div class="technologies">
-            <span class="tech-square">Vue.js</span>
-            <span class="tech-square">Django</span>
-            <span class="tech-square">PostgreSQL</span>
+            <span class="tech-square">C</span>
           </div>
         </div>
       </div>
@@ -85,7 +83,7 @@
       <div class="project-card">
         <img src="../assets/images/bm.jpg" alt="FitnessPro" class="project-image" />
         <div class="project-details">
-          <h2 class="project-title">FitnessPro</h2>
+          <h2 class="project-title">Gestion </h2>
           <p class="project-description">
             FitnessPro est une application qui propose des programmes d'entraînement personnalisés, des suivis de performance et des conseils nutritionnels pour les amateurs de fitness.
           </p>
