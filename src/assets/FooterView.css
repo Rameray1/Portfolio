@@ -1,10 +1,13 @@
 .footer {
-  background-color: #000000;
+  background-color: #2d2d2d;
   color: #fff;
   padding: 20px 0;
   text-align: center;
-  margin-top: auto; /* Colle le footer en bas de son conteneur */
-  width: 100%; /* Occupe toute la largeur disponible */
+  margin-top: auto; 
+  align-items: center;
+  justify-content: center;
+  margin-left: 0;
+  width: 100%;
 }
 
 .footer-content {
@@ -13,7 +16,8 @@
   align-items: flex-start;
   max-width: 960px;
   margin: 0 auto;
-  padding: 20px;
+  /* padding: 20px; */
+  width: 100%;
 }
 
 .footer-content-left, .footer-content-right {

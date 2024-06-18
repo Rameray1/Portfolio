@@ -20,7 +20,7 @@
     font-family: 'Roboto', sans-serif;
     gap: 50px; /* Espacement vertical entre les cartes */
     min-height: 100vh;
-    width: 100vw;
+
   }
   
   /* Conteneur pour les cartes afin de les aligner en row */
