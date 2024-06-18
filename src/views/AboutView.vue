@@ -19,12 +19,13 @@
           <span class="skill">JavaScript</span>
           <span class="skill">PHP</span>
           <span class="skill">Java</span>
+          <span class="skill">C</span>
+          <span class="skill">Symfony</span>
+          <span class="skill">Vue.js</span>
+          <span class="skill">Cypress</span>
           <span class="skill">GIT</span>
           <span class="skill">Github</span>
           <span class="skill">SQL</span>
-          <span class="skill">ETC</span>
-          <span class="skill">ETC</span>
-          <span class="skill">ETC</span>
         </div>
       </div>
     </div>

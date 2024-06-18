@@ -20,9 +20,9 @@
       <a href="https://www.medium.com" target="_blank"><img src="" alt="Medium"></a> -->
     </div>
 
-    <div class="chat-button">
+    <!-- <div class="chat-button">
       <button class="chat-with-me">Parlez moi 👋</button>
-    </div>
+    </div> -->
   </section>
 </template>
 
