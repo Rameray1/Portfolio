@@ -43,7 +43,6 @@
   }
   
   .project-card:hover {
-    /*scale Y augment  mais ne passe pas devant le header*/
     transform: translateY(-10px);
   }
   
