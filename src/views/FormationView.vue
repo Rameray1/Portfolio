@@ -4,7 +4,7 @@
     
     <div class="formation-cards-container">
       <div class="formation-card">
-        <img src="../assets/informatique.jpg" alt="Formation Informatique" class="formation-image" />
+        <!-- <img src="../assets/informatique.jpg" alt="Formation Informatique" class="formation-image" /> -->
         <div class="formation-details">
           <h2 class="formation-title">BUT Informatique</h2>
           <p class="formation-description">
@@ -18,7 +18,7 @@
       </div>
 
       <div class="formation-card">
-        <img src="../assets/bac.jpg" alt="Formation Bac Mention Bien" class="formation-image" />
+        <!-- <img src="../assets/bac.jpg" alt="Formation Bac Mention Bien" class="formation-image" /> -->
         <div class="formation-details">
           <h2 class="formation-title">Lycée général</h2>
           <p class="formation-description">

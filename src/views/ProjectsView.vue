@@ -68,7 +68,7 @@
       </div>
 
       <div class="project-card">
-        <img src="../assets/images/bm.jpg" alt="TravelMate" class="project-image" />
+        <!-- <img src="../assets/images/bm.jpg" alt="TravelMate" class="project-image" /> -->
         <div class="project-details">
           <h2 class="project-title">TravelMate</h2>
           <p class="project-description">
@@ -83,7 +83,7 @@
       </div>
 
       <div class="project-card">
-        <img src="../assets/images/bm.jpg" alt="FitnessPro" class="project-image" />
+        <!-- <img src="../assets/images/bm.jpg" alt="FitnessPro" class="project-image" /> -->
         <div class="project-details">
           <h2 class="project-title">FitnessPro</h2>
           <p class="project-description">
