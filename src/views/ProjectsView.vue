@@ -81,7 +81,7 @@
       </div>
 
       <div class="project-card">
-        <img src="../assets/images/bm.jpg" alt="FitnessPro" class="project-image" />
+        <!-- <img src="../assets/images/bm.jpg" alt="FitnessPro" class="project-image" /> -->
         <div class="project-details">
           <h2 class="project-title">Gestion </h2>
           <p class="project-description">

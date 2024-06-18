@@ -1,0 +1,35 @@
+<template>
+    <footer class="footer">
+      <div class="footer-content">
+        <div class="footer-content-left">
+          <h3>Me contacter</h3>
+          <p>
+            Vous pouvez me contacter par mail à l'adresse suivante : 
+            <a href="mailto:rkus.contact@gmail.com">rkus.contact@gmail.com</a>
+          </p>
+        </div>
+        <div class="footer-content-right">
+          <h3>Réseaux sociaux</h3>
+          <div class="social-media">
+            <a href="https://www.linkedin.com/in/ramazan-kus/" target="_blank" rel="noopener noreferrer">
+              <img src="../assets/images/linkedin.png" alt="LinkedIn" class="social-media-icon">
+            </a>
+
+            <a href="https://www.github.com" target="_blank" rel="noopener noreferrer">
+              <img src="../assets/images/linkedin.png" alt="GitHub" class="social-media-icon">
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2024 Ramazan KUS. Tous droits réservés.</p>
+      </div>
+    </footer>
+  </template>
+  
+  <script setup>
+  import { onMounted } from 'vue';
+  </script>
+  
+  <style src="../assets/FooterView.css"></style>
+  

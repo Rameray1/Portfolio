@@ -11,7 +11,6 @@
     font-family: 'Roboto', sans-serif;
   }
   
-  
   .projects-header {
     text-align: center;
     margin-bottom: 60px;
@@ -44,6 +43,7 @@
   }
   
   .project-card:hover {
+    /*scale Y augment  mais ne passe pas devant le header*/
     transform: translateY(-10px);
   }
   
