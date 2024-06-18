@@ -5,7 +5,7 @@
     </header>
     <div class="projects-grid">
   <div class="project-card">
-    <img src="../assets/images/sportify.png" alt="Sportify" class="project-image" />
+    <img src="../assets/images/minhlist.png" alt="Sportify" class="project-image" />
     <div class="project-details">
       <a href="https://youtu.be/BZSuxtxUq40?si=okqhrf5XOkAuIf0y" target="_blank" rel="noopener noreferrer" class="project-title-link">
         <h2 class="project-title">Sportify</h2>
