@@ -9,7 +9,7 @@
         <h2>Apprendre à me connaître!</h2>
         <p>Je suis un développeur Web Frontend qui construit le Front-end des sites Web et des applications Web qui mène au succès du produit global. Découvrez certains de mes travaux dans la section Projets.</p>
         <p>Je suis ouvert aux opportunités d'emploi où je peux contribuer, apprendre et évoluer. Si vous avez une bonne opportunité correspondant à mes compétences et à mon expérience, n'hésitez pas à me contacter.</p>
-        <button class="contact-button">CONTACT</button>
+        <a href="#contact" class="projects-button">CONTACT</a>
       </div>
       <div class="skills-list">
         <h2>Mes compétences</h2>
