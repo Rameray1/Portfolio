@@ -5,9 +5,9 @@
         <h3>Me contacter</h3>
         <p>
           Vous pouvez me contacter par téléphone au :
-          <a href="tel:+33698937071">+33 6 98 93 70 71</a><br>
+          <a href="tel:+33698937071">+33 * ** ** ** **</a><br>
           ou par mail à l'adresse suivante : 
-          <a href="mailto:rkus.contact@gmail.com">rkus.contact@gmail.com</a>
+          <a href="mailto:rkus.contact@gmail.com">****.*******@gmail.com</a>
         </p>
       </div>
       <div class="footer-content-right">
