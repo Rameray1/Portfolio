@@ -12,6 +12,9 @@
     <section id="formation">
       <FormationView />
     </section>
+    <section id="alternance">
+      <AlternanceView />
+    </section>
     <section id="projects">
       <ProjectsView />
     </section>
@@ -37,4 +40,6 @@ import ProjectsView from '@/views/ProjectsView.vue'
 import ContactView from '@/views/ContactView.vue'
 import FormationView from '@/views/FormationView.vue'
 import IutView from '@/views/IutView.vue'
+import AlternanceView from '@/views/AlternanceView.vue'
+
 </script>

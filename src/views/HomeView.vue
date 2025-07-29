@@ -9,7 +9,9 @@
       <div class="main-description">
         <p>Je suis un <strong>jeune développeur</strong> encore en étude, orienté dans le <em>développement web et logiciel</em>. <br>Passionné par la technologie et constamment en quête de nouveaux défis, je m'efforce d'améliorer mes compétences chaque jour.</p>
       </div>
-       <a href="#projects" class="projects-button">PROJETS</a>
+      <a href="/RamazanKus_CV.pdf" download class="btn-download-cv">
+        Télécharger mon CV
+      </a>
     </div>
 
     <div class="social-icons">

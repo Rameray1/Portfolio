@@ -10,7 +10,7 @@
   }
   
   .formation-section {
-    /* background: #2d2d2d; */
+    background: #2d2d2d;
     color: #e0e0e0;
     display: flex;
     flex-direction: column;
@@ -92,3 +92,17 @@
     }
   }
   
+  /* Nouvelle carte centrée en dessous */
+.formation-card--centered {
+  width: 60%;
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 40px;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .formation-card--centered {
+    width: calc(100% - 40px);
+  }
+}

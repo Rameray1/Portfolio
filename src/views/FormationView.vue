@@ -3,19 +3,6 @@
     <h1 class="formations-title">Mes Formations</h1>
     
     <div class="formation-cards-container">
-      <div class="formation-card">
-        <!-- <img src="../assets/informatique.jpg" alt="Formation Informatique" class="formation-image" /> -->
-        <div class="formation-details">
-          <h2 class="formation-title">BUT Informatique</h2>
-          <p class="formation-description">
-            Spécialisation en Réalisation d'Applications, incluant des modules avancés en management.
-          </p>
-          <div class="formation-info">
-            <p><strong>Durée:</strong> 2022 - présent</p>
-            <p><strong>Lieu:</strong> IUT Lyon 1</p>
-          </div>
-        </div>
-      </div>
 
       <div class="formation-card">
         <!-- <img src="../assets/bac.jpg" alt="Formation Bac Mention Bien" class="formation-image" /> -->
@@ -30,7 +17,37 @@
           </div>
         </div>
       </div>
+      
+      <div class="formation-card">
+        <!-- <img src="../assets/informatique.jpg" alt="Formation Informatique" class="formation-image" /> -->
+        <div class="formation-details">
+          <h2 class="formation-title">BUT Informatique</h2>
+          <p class="formation-description">
+            Spécialisation en Réalisation d'Applications, incluant des modules avancés en management.
+          </p>
+          <div class="formation-info">
+            <p><strong>Durée:</strong> 2022 - présent</p>
+            <p><strong>Lieu:</strong> IUT Lyon 1</p>
+          </div>
+        </div>
+      </div>
+
+      
     </div>
+
+    <!-- Nouvelle formation, centrée en dessous -->
+  <div class="formation-card formation-card--centered">
+    <div class="formation-details">
+      <h2 class="formation-title">École d'ingénieur</h2>
+      <p class="formation-description">
+        Spécialisation développement logiciel, en alternance.
+      </p>
+      <div class="formation-info">
+        <p><strong>Durée:</strong> 2025 - 2028</p>
+        <p><strong>Lieu:</strong> IMT Mines Alès</p>
+      </div>
+    </div>
+  </div>
   </section>
 </template>
 
