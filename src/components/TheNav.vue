@@ -9,6 +9,7 @@
         <a href="#home">Accueil</a> 
         <a href="#about">A propos de moi</a>
         <a href="#formation">Formation</a>
+        <a href="#alternance">Alternance</a>
         <a href="#projects">Projets</a>
         <a href="#iut">Compétences</a>
         <a href="#contact">Contact</a>
