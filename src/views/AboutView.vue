@@ -17,15 +17,19 @@
           <span class="skill">HTML</span>
           <span class="skill">CSS</span>
           <span class="skill">JavaScript</span>
+          <span class="skill">Vue.js</span>
+          <span class="skill">Angular</span>
           <span class="skill">PHP</span>
           <span class="skill">Java</span>
+          <span class="skill">Spring</span>
+          <span class="skill">Kotlin</span>
           <span class="skill">C</span>
           <span class="skill">Symfony</span>
-          <span class="skill">Vue.js</span>
           <span class="skill">Cypress</span>
-          <span class="skill">GIT</span>
-          <span class="skill">Github</span>
-          <span class="skill">SQL</span>
+          <span class="skill">MySql</span>
+          <span class="skill">MongoDB</span>
+          <span class="skill">Neo4J</span>
+          <span class="skill">PostgresSQL</span>
         </div>
       </div>
     </div>

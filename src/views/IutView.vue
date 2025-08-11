@@ -28,7 +28,7 @@
       </ul>
     </div>
 
-    <div class="competence-card blue">
+    <div class="competence-card orange">
       <h2 class="competence-title">Administrer des systèmes informatiques communicants complexes</h2>
       <ul class="competence-list">
         <li class="competence-item">Maîtriser l’architecture des systèmes et des réseaux</li>
@@ -52,7 +52,7 @@
       </ul>
     </div>
 
-    <div class="competence-card orange">
+    <div class="competence-card blue">
       <h2 class="competence-title">Conduire un projet</h2>
       <ul class="competence-list">
         <li class="competence-item">Planification du projet</li>
@@ -64,7 +64,7 @@
       </ul>
     </div>
 
-    <div class="competence-card blue">
+    <div class="competence-card green">
       <h2 class="competence-title">Travailler dans une équipe informatique</h2>
       <ul class="competence-list">
         <li class="competence-item">Savoir communiquer avec son équipe</li>
