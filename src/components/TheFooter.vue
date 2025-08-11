@@ -23,7 +23,7 @@
       </div>
     </div>
     <div class="footer-bottom">
-      <p>&copy; 2024 Ramazan KUS. Tous droits réservés.</p>
+      <p>&copy; 2025 Ramazan KUS. Tous droits réservés.</p>
     </div>
   </footer>
 </template>
