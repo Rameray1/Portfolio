@@ -1,12 +1,11 @@
 .about-section {
   /* background: #2d2d2d; */
-  color: #e0e0e0;
+  color: #ffffff;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 100vh; 
-
   margin-left: 0;
   padding: 0;
   font-family: 'Roboto', sans-serif;
@@ -58,7 +57,7 @@
 .contact-button {
   text-decoration: none;
   padding: 12px 24px;
-  background: #6c63ff;
+  background: #5C422A;
   color: #fff;
   font-size: 1.2em;
   font-weight: bold;
@@ -69,7 +68,7 @@
 }
 
 .contact-button:hover {
-  background: #5a54e8;
+  background: #7A4B34;
 }
 
 .skills-list {
@@ -92,7 +91,7 @@
 
 .skill {
   padding: 10px 20px;
-  background: #3d3d3d;
+  background: #827055;
   border-radius: 4px;
   font-size: 1.2em;
   font-weight: bold;

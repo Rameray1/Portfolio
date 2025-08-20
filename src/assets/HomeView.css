@@ -1,6 +1,6 @@
 .home-section {
-    background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../assets/images/background.svg);
-    background-color: rgb(0, 0, 0);
+    background: linear-gradient(to right, rgba(130, 112, 85, 0.8), rgba(130, 112, 85, 0.8)), url(../assets/images/background.svg);
+    background-color: rgb(827055);
     color: #fff;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 16px 32px;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(92, 66, 42, 0.8);
     position: fixed;
     z-index: 1
 }
@@ -104,7 +104,7 @@
 
 .btn-download-cv {
     padding: 12px 24px;
-    background: #6c63ff;
+    background: #5C422A;
     color: #fff;
     font-size: 1em;
     font-weight: bold;
@@ -117,7 +117,7 @@
 }
 
 .btn-download-cv:hover {
-background: #5a54e8;
+background: #7A4B34;
 }
 
 .social-icons {
@@ -146,7 +146,7 @@ background: #5a54e8;
 
 .chat-with-me {
     padding: 12px 24px;
-    background: #6c63ff;
+    background: #5C422A;
     color: #fff;
     font-size: 1em;
     font-weight: bold;
@@ -160,13 +160,13 @@ background: #5a54e8;
 }
 
 .chat-with-me:hover {
-    background: #5a54e8;
+    background: #7A4B34;
 }
 
 
 
 footer a {
-    color: #6c63ff;
+    color: #5C422A;
     text-decoration: none;
     font-weight: bold;
     transition: opacity 0.3s;

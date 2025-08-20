@@ -28,7 +28,7 @@
     font-size: 1.2em;
     max-width: 700px;
     text-align: center;
-    color: #ddd;
+    color: #ffffff;
     margin-bottom: 40px;
   }
   
@@ -86,18 +86,23 @@
   
   /* Couleurs spécifiques par type de carte */
   .ca-green {
-    background-color: #388e3c;
-    box-shadow: 0 5px 15px rgba(56, 142, 60, 0.5);
+background-color: #8C6A4F;
+box-shadow: 0 5px 15px rgba(140, 106, 79, 0.5);
+
+
   }
   
   .ca-blue {
-    background-color: #1976d2;
-    box-shadow: 0 5px 15px rgba(25, 118, 210, 0.5);
+background-color: #B4745E;
+box-shadow: 0 5px 15px rgba(180, 116, 94, 0.5);
+
+
   }
   
   .ca-orange {
-    background-color: #f57c00;
-    box-shadow: 0 5px 15px rgba(245, 124, 0, 0.5);
+background-color: #C48E5B;
+box-shadow: 0 5px 15px rgba(196, 142, 91, 0.5);
+
   }
   
   /* Responsive - sur petits écrans (tablettes / mobiles) */
