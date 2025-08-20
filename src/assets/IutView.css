@@ -51,21 +51,21 @@
 
 /* Couleurs de fond pour chaque compétence */
 .competence-card.red {
-  background-color: #ffccbc; /* Rouge */
-  color: #e65100;
+  background-color: #d8c3b0; /* Rouge */
+  color: #8b5e3c;
 }
 
 .competence-card.orange {
-  background-color: #ffe0b2; /* Orange */
-  color: #f57c00;
+  background-color: #e6d4b8; /* Orange */
+  color: #6b4f35;
 }
 
 .competence-card.blue {
-  background-color: #bbdefb; /* Bleu */
-  color: #1565c0;
+  background-color: #b8c6e0; /* Bleu */
+  color: #35425a;
 }
 
 .competence-card.green {
-  background-color: #c8e6c9; /* Vert */
-  color: #2e7d32;
+  background-color: #a1b29d; /* Vert */
+  color: #4b5c40;
 }
